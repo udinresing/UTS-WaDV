@@ -1,0 +1,17 @@
+{
+  "name": "uts-wadv-anandrasyarifudin",
+  "version": "1.0.0",
+  "description": "UTS Web Advanced Development - Personal Finance API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@prisma/client": "5.22.0"
+  },
+  "devDependencies": {
+    "prisma": "5.22.0"
+  }
+}
